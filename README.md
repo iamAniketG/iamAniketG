@@ -22,9 +22,11 @@
 </br>
 
 # 💫About Me :
-Java Spring Boot Developer
+- "Java Spring Boot developer" with a strong 💪 proficiency in MySQL. Passionate about building robust and efficient         backend solutions using Spring Boot, with a deep understanding of RESTful APIs, microservices architecture, and           database management.
+-  Adept at crafting scalable applications that meet business requirements.
+- 👨‍💻 Eager to collaborate on innovative projects and contribute to open-source communities.
 - 🔭 I’m currently working on ... Java & Spring Boot & MySQL 
-- 🌱 I’m currently learning ... Frontend  😊
+- 🌱 I’m currently learning ... Frontend
 
 
 # 💻Tech Stack
